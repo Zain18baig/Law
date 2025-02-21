@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.active-nav {
+    background-color: black;
+    color: white !important;
+    padding: 8px 14px;
+    border-radius: 8px;
+  }
+  
