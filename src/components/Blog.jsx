@@ -41,6 +41,7 @@ export const BlogSection = () => {
               <li>Types of drug-related offenses</li>
               <li>Legal consequences and penalties</li>
               <li>Defending against drug-related charges</li>
+              <li>Narcotics offenses</li>
             </ul>
             <p className="text-gray-600 mt-4">
               If you're facing a narcotics-related charge, legal representation
@@ -67,7 +68,7 @@ export const BlogSection = () => {
               goods, and even criminal charges.
             </p>
             <ul className="list-disc ml-6 mt-4 text-gray-600">
-              <li>Common customs violations</li>
+              <li>Common customs violations (import and export related offenses)</li>
               <li>How to comply with trade regulations</li>
               <li>Legal options if facing customs disputes</li>
             </ul>
@@ -138,5 +139,4 @@ export const BlogSection = () => {
     </section>
   );
 };
-
 export default BlogSection;
